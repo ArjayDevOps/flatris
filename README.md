@@ -14,4 +14,4 @@ Thanks [@paulgergely](https://twitter.com/paulgergely) for the initial flat desi
 
 Also see [elm-flatris](https://github.com/w0rm/elm-flatris).
 
-this is a test edit of the flatris readme by arjay.s
+this is a test edit of the flatris readme by arjay.
